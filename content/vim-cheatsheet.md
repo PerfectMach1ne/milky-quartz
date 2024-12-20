@@ -11,7 +11,16 @@ tags:
 
 ## Emergency FAQ zone:
 
-***Q:** "Aaaa, why cannot I autocomplete file selections in my nooby Neovim setup!?"*
+**Q** :: *"Oh man aw mane, we  are in som troble"*\
+**A** :: `<ESC>+qa!+<ENTER>`
 
-**A: "<Ctrl>+<y>"**
+**Q** :: *"Aaaa, why cannot I autocomplete file selections in my nooby Neovim setup!?"*\
+**A** :: `<CTRL>+<y>`
 
+## General cheatsheet (Vi family)
+
+**Global substitution** :: `<ESC>+:%s/findand/replacewith`[^1]\
+**Yank/etc into clipboard** :: `<SHIFT>+<'>+<=>+<y>` / `<">+<=>+<y>`\
+**Paste/etc from clipboard** :: `<SHIFT>+<'>+<=>+<p>` / `<">+<=>+<p>`
+
+[^1]: Append `/g` if global substitution doesn't work.
