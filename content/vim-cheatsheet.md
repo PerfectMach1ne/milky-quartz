@@ -21,6 +21,8 @@ tags:
 
 **Global substitution** :: `<ESC>+:%s/findand/replacewith`[^1]\
 **Yank/etc into clipboard** :: `<SHIFT>+<'>+<=>+<y>` / `<">+<=>+<y>`\
-**Paste/etc from clipboard** :: `<SHIFT>+<'>+<=>+<p>` / `<">+<=>+<p>`
+**Paste/etc from clipboard** :: `<SHIFT>+<'>+<=>+<p>` / `<">+<=>+<p>`\
+**Delete inside two HTML/XML tags** :: `dit`, `<d>+<i>+<t>`\
+  e.g.: `<p id="catnet">purge me</p>` -> `<p id="catnet"></p>`
 
 [^1]: Append `/g` if global substitution doesn't work.

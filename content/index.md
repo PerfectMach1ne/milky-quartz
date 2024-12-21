@@ -19,3 +19,4 @@ This subdomain is a big garden for all my notes surroundings topics such as:
 - moar software mlemgineering...
 - conputer
 - Whatever floats my fancy and is vaguely related to the machine colloquially known as the "conputer".
+
