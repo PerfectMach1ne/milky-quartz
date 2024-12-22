@@ -4,11 +4,12 @@ draft: false
 tags:
   - curl
   - networking
+  - term
 ---
 
 # cURL cheatsheet
 
-Use a different loopback interface (e.g. 127.1.2.3):
+Use a custom loopback interface (e.g. 127.1.2.3):
 ```sh
 curl --interface 127.1.2.3 -v http://127.57.57.57:8057/
 ```
