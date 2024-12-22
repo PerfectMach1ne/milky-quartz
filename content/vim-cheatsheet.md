@@ -1,5 +1,5 @@
 ---
-title: Vi/Vim/Neovim(/Nano) Cheatsheet
+title: Vim cheatsheet
 draft: false
 tags:
   - vim
