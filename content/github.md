@@ -5,6 +5,7 @@ tags:
   - GitHub
   - Git
   - repositories
+  - term
 ---
 
 # GitHub CLI reference

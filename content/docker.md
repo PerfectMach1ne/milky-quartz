@@ -13,6 +13,8 @@ tags:
 
 ## Docker Engine
 
+It runs the whole thing.
+
 ## Docker Build
 
 Build images from **Dockerfiles**. In terms of command line toys, there's `docker build` and `docker buildx build` which is [like `build` on rails.](https://docs.docker.com/build/builders/#difference-between-docker-build-and-docker-buildx-build)\

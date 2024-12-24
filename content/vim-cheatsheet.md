@@ -1,4 +1,4 @@
----
+i---
 title: Vim cheatsheet
 draft: false
 tags:
@@ -23,6 +23,7 @@ tags:
 **Yank/etc into clipboard** :: `<SHIFT>+<'>+<=>+<y>` / `<">+<=>+<y>`\
 **Paste/etc from clipboard** :: `<SHIFT>+<'>+<=>+<p>` / `<">+<=>+<p>`\
 **Delete inside two HTML/XML tags** :: `dit`, `<d>+<i>+<t>`\
-  e.g.: `<p id="catnet">purge me</p>` -> `<p id="catnet"></p>`
+  e.g.: `<p id="catnet">purge me</p>` -> `<p id="catnet"></p>`\
+**Go to first line** :: `<g>+<g>`
 
 [^1]: Append `/g` if global substitution doesn't work.
