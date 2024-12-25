@@ -69,7 +69,7 @@ docker container run -p 9999:8888 myhello
 
 > [!caution] Caution
 >
-> The port syntax for `docker run` is `host:container`, so to access the container and receive the pretty *"Hello, 世界"* you refer to your host's address with the **first** port you provided.
+> The port syntax for `docker run` is `HOST_PORT:CONTAINER_PORT`, so to access the container and receive the pretty *"Hello, 世界"* you refer to your host's address with the **first** port you provided.
 > ```sh
 > curl -v 127.0.0.1:9999
 > ```
@@ -98,7 +98,7 @@ docker container ls
 
 ## Docker Compose
 
-Docker, but on rails (featuring YAML from Dante May Cry).
+Docker, but on rails (featuring YAML from DevOps May Cry).
 
 [^1]: Of course, appending `sudo` to both commands in the case I'm still a silly GoobSec shellhead that doesn't wanna create a Docker group.
 

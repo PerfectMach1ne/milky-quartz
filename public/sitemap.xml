@@ -1,28 +1,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</loc>
-    <lastmod>2024-12-23T23:58:40.770Z</lastmod>
+    <lastmod>2024-12-24T20:03:42.845Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/curl-cheatsheet</loc>
-    <lastmod>2024-12-23T23:53:30.757Z</lastmod>
+    <lastmod>2024-12-24T20:03:42.845Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/docker</loc>
-    <lastmod>2024-12-24T17:34:21.222Z</lastmod>
+    <lastmod>2024-12-25T18:54:52.002Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/dockerfiles</loc>
-    <lastmod>2024-12-23T23:53:30.757Z</lastmod>
+    <lastmod>2024-12-24T20:03:42.845Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/github</loc>
-    <lastmod>2024-12-24T19:16:57.126Z</lastmod>
+    <lastmod>2024-12-24T20:03:42.845Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/</loc>
-    <lastmod>2024-12-23T23:53:30.757Z</lastmod>
-  </url><url>
-    <loc>https://milky-quartz.netcatcat.net/unix-permissions</loc>
-    <lastmod>2024-12-23T23:53:30.757Z</lastmod>
-  </url><url>
-    <loc>https://milky-quartz.netcatcat.net/vim-cheatsheet</loc>
-    <lastmod>2024-12-24T19:15:44.796Z</lastmod>
+    <lastmod>2024-12-24T20:03:42.838Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/powerstates</loc>
-    <lastmod>2024-12-24T20:03:30.738Z</lastmod>
+    <lastmod>2024-12-24T20:03:42.845Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/unix-permissions</loc>
+    <lastmod>2024-12-24T20:03:42.841Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/vim-cheatsheet</loc>
+    <lastmod>2024-12-24T20:03:42.845Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/minikube</loc>
+    <lastmod>2024-12-25T19:37:32.407Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/kubernetes-theory</loc>
+    <lastmod>2024-12-25T23:27:03.150Z</lastmod>
   </url></urlset>
