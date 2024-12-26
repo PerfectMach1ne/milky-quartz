@@ -1,4 +1,4 @@
-i---
+---
 title: Vim cheatsheet
 draft: false
 tags:
