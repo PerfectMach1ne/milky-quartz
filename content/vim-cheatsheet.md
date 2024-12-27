@@ -26,6 +26,30 @@ tags:
   e.g.: `<p id="catnet">purge me</p>` -> `<p id="catnet"></p>`\
 **Go to first line** :: `<g>+<g>`\
 **Go to beginning of current line** :: `<0>`\
-**Go to beginning of current line** :: `<$>` / `<SHIFT>+<4>`
+**Go to beginning of current line** :: `<$>` / `<SHIFT>+<4>`\
+**Append arbitrary identical characters in an arbitrary vertical line**:
+
+`<CTRL>+<v>` -> `<j>` or `<k>` as much as needed -> `<I>` / `<SHIFT>+<i>` -> type your arbitrary character collection! -> `<ESC>`
+
+> [!example] Example
+> 
+> ### Before edit:
+> ```md
+> The key sequence:
+> 
+> `0<Ctrl>v1jI> <Esc>`
+> ```
+>
+> ### The key sequence:
+> 
+> `0<Ctrl>v2jI> <Esc>`
+> 
+> ### After edit:
+> ```markdown
+> > The key sequence:
+> > 
+> > `0<Ctrl>v1jI> <Esc>`
+> ```
+
 
 [^1]: Append `/g` if global substitution doesn't work.
