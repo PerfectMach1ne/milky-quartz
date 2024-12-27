@@ -9,62 +9,62 @@
     <title>SRE principles</title>
     <link>https://milky-quartz.netcatcat.net/sre-principles</link>
     <guid>https://milky-quartz.netcatcat.net/sre-principles</guid>
-    <description>SRE principles Monitoring Concepts from João Pereira’s 52 weeks of SRE (W2).</description>
-    <pubDate>Thu, 26 Dec 2024 22:25:58 GMT</pubDate>
+    <description>SRE principles Monitoring Concepts from João Pereira’s 52 weeks of SRE (W2) Black-box and white-box A name familiar from testing concepts; we can also categorize monitoring into ...</description>
+    <pubDate>Fri, 27 Dec 2024 20:35:02 GMT</pubDate>
+  </item><item>
+    <title>Prometheus</title>
+    <link>https://milky-quartz.netcatcat.net/prometheus</link>
+    <guid>https://milky-quartz.netcatcat.net/prometheus</guid>
+    <description>Prometheus Prometheus is a tool for collecting data for monitoring purposes. Basically it’s one of the “backend options” for monitoring visualization tools such as Grafana.</description>
+    <pubDate>Fri, 27 Dec 2024 20:26:10 GMT</pubDate>
+  </item><item>
+    <title>Grafana</title>
+    <link>https://milky-quartz.netcatcat.net/grafana</link>
+    <guid>https://milky-quartz.netcatcat.net/grafana</guid>
+    <description>Grafana Grafana creating monitoring dashboards based on data from endpoints provided to it. It’s like a “frontend” for monitoring data scraper tools such as Prometheus, DataDog, CloudWatch and so on.</description>
+    <pubDate>Fri, 27 Dec 2024 20:23:33 GMT</pubDate>
   </item><item>
     <title>Vim cheatsheet</title>
     <link>https://milky-quartz.netcatcat.net/vim-cheatsheet</link>
     <guid>https://milky-quartz.netcatcat.net/vim-cheatsheet</guid>
     <description>Vi/Vim/Neovim(/Nano) Cheatsheet Emergency FAQ zone: Q :: “Oh man aw mane, we are in som troble” A :: &lt;ESC&gt;+qa!+&lt;ENTER&gt; Q :: “Aaaa, why cannot I autocomplete file selections ...</description>
-    <pubDate>Thu, 26 Dec 2024 20:31:04 GMT</pubDate>
+    <pubDate>Fri, 27 Dec 2024 18:22:37 GMT</pubDate>
   </item><item>
     <title>Deploying EC2 with Terraform, OpenTofu and CloudFront</title>
     <link>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</link>
     <guid>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</guid>
     <description>Let’s get straight to business. What can we do? Terraform OpenTofu CloudFront.</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
-  </item><item>
-    <title>cURL cheatsheet</title>
-    <link>https://milky-quartz.netcatcat.net/curl-cheatsheet</link>
-    <guid>https://milky-quartz.netcatcat.net/curl-cheatsheet</guid>
-    <description>cURL cheatsheet Use a custom loopback interface (e.g. 127.1.2.3): curl --interface 127.1.2.3 -v http://127.57.57.57:8057/ Index of helpful links Everything curl.</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 22:26:17 GMT</pubDate>
   </item><item>
     <title>Docker basics</title>
     <link>https://milky-quartz.netcatcat.net/docker</link>
     <guid>https://milky-quartz.netcatcat.net/docker</guid>
     <description>Docker Docker Engine It runs the whole thing. Docker Build Build images from Dockerfiles. In terms of command line toys, there’s docker build and docker buildx build which is like build on rails.</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 22:26:17 GMT</pubDate>
   </item><item>
     <title>Dockerfile structure</title>
     <link>https://milky-quartz.netcatcat.net/dockerfiles</link>
     <guid>https://milky-quartz.netcatcat.net/dockerfiles</guid>
     <description>Dockerfiles For little extras, also read up Docker basics.</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 22:26:17 GMT</pubDate>
   </item><item>
     <title>GitHub</title>
     <link>https://milky-quartz.netcatcat.net/github</link>
     <guid>https://milky-quartz.netcatcat.net/github</guid>
     <description>GitHub CLI reference GitHub web Remote repo editing Open a repository in browser, then click on a file and press the &lt;/&gt; key to open the github.dev VS Code browser editor! ...</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 22:26:17 GMT</pubDate>
   </item><item>
     <title>Kubernetes theory</title>
     <link>https://milky-quartz.netcatcat.net/kubernetes-theory</link>
     <guid>https://milky-quartz.netcatcat.net/kubernetes-theory</guid>
     <description>Kubernetes For more low-level practical stuff, go to docs on Docker and K8s basics. For what reason? [].</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 22:26:17 GMT</pubDate>
   </item><item>
     <title>Minikube &amp; K8s basics</title>
     <link>https://milky-quartz.netcatcat.net/minikube</link>
     <guid>https://milky-quartz.netcatcat.net/minikube</guid>
     <description>Minikube A lot of starter stuff here follows from starter Go+Docker stuff at Docker basics. Deploying a Go helowoorld on Minikube First off, ensure you have Docker installed and Docker group set up.</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
-  </item><item>
-    <title>Device power states</title>
-    <link>https://milky-quartz.netcatcat.net/powerstates</link>
-    <guid>https://milky-quartz.netcatcat.net/powerstates</guid>
-    <description>Notes on device power states Hibernation Hibernation typically means the entire image of RAM memory is saved to the disk (whether SSD or HDD) and then the laptop is quote-on-quotes ...</description>
-    <pubDate>Wed, 25 Dec 2024 23:27:13 GMT</pubDate>
+    <pubDate>Thu, 26 Dec 2024 22:26:17 GMT</pubDate>
   </item>
     </channel>
   </rss>

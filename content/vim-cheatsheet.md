@@ -24,6 +24,8 @@ tags:
 **Paste/etc from clipboard** :: `<SHIFT>+<'>+<=>+<p>` / `<">+<=>+<p>`\
 **Delete inside two HTML/XML tags** :: `dit`, `<d>+<i>+<t>`\
   e.g.: `<p id="catnet">purge me</p>` -> `<p id="catnet"></p>`\
-**Go to first line** :: `<g>+<g>`
+**Go to first line** :: `<g>+<g>`\
+**Go to beginning of current line** :: `<0>`\
+**Go to beginning of current line** :: `<$>` / `<SHIFT>+<4>`
 
 [^1]: Append `/g` if global substitution doesn't work.
