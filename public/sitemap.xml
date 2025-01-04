@@ -1,43 +1,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</loc>
-    <lastmod>2024-12-27T21:07:10.733Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.355Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/curl-cheatsheet</loc>
-    <lastmod>2024-12-27T20:35:13.850Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.352Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/docker</loc>
-    <lastmod>2024-12-27T20:35:13.850Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.352Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/dockerfiles</loc>
-    <lastmod>2024-12-27T20:35:13.850Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.352Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/firewalls</loc>
+    <lastmod>2025-01-04T00:49:49.504Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/github</loc>
-    <lastmod>2024-12-27T20:35:13.850Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.352Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/grafana</loc>
-    <lastmod>2024-12-27T20:35:13.853Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.355Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/</loc>
-    <lastmod>2024-12-27T20:35:13.846Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.348Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/kubernetes-theory</loc>
-    <lastmod>2024-12-27T20:37:21.883Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.355Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/minikube</loc>
-    <lastmod>2024-12-27T20:35:13.850Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.355Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/powerstates</loc>
-    <lastmod>2024-12-27T20:35:13.850Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.352Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/prometheus</loc>
-    <lastmod>2024-12-27T20:35:13.853Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.355Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/sre-principles</loc>
-    <lastmod>2024-12-27T20:35:13.853Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.355Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/ssh</loc>
+    <lastmod>2025-01-04T00:49:52.281Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/unix-permissions</loc>
-    <lastmod>2024-12-27T20:35:13.850Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.352Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/vim-cheatsheet</loc>
-    <lastmod>2024-12-27T21:37:27.723Z</lastmod>
+    <lastmod>2024-12-27T22:09:59.355Z</lastmod>
   </url></urlset>
