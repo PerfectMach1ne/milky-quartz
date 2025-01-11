@@ -25,4 +25,19 @@ kubectl get pods --selector app=demo
 ```
 
 ![Terminal output of the middle 2 commands above.](./img/k8s-go-demo.png)
+
 The error above also portrays how to deal with some silly little name errors - just **read**.
+
+## How to not trainwreck your Minikube
+
+> [!danger]- Docker network pruning
+> 
+> **DO NOT** run:
+> 
+> ```sh
+> docker network prune
+> ```
+> 
+> Especially if your Minikube cluster isn't running. It might take down with itself the network necessary for Minikube to start. I am not sure what the simplest, non-destructive (so not involving `minikube delete && minikube start` from scratch reset) way to fix this is, but it likely requires you to put together a very unpleasant `docker-network` command.
+>
+> Source: my own mistakes.

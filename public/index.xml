@@ -6,65 +6,65 @@
       <description>Last 10 notes on Milky Quartz, a note garden 🌱🖥️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>SSH</title>
-    <link>https://milky-quartz.netcatcat.net/ssh</link>
-    <guid>https://milky-quartz.netcatcat.net/ssh</guid>
-    <description>OpenSSH (Secure Shell) OpenSSH is a collection of tools, here’s a brief overview of them all: ssh - “Secure Shell”, the command that allows a secure tunnel for a shell connection to ...</description>
-    <pubDate>Sat, 04 Jan 2025 00:49:52 GMT</pubDate>
+    <title>PGP&amp;GPG</title>
+    <link>https://milky-quartz.netcatcat.net/pgp</link>
+    <guid>https://milky-quartz.netcatcat.net/pgp</guid>
+    <description>PGP (Pretty Good Privacy) Pretty good tool for encryption &amp; decryption, as well as verifying file integrity. GPG/GnuPG tool Gnu Privacy Guard - the best free tool (afaik) for doing things with PGP.</description>
+    <pubDate>Sat, 11 Jan 2025 17:25:58 GMT</pubDate>
   </item><item>
-    <title>Firewalls on Linux</title>
-    <link>https://milky-quartz.netcatcat.net/firewalls</link>
-    <guid>https://milky-quartz.netcatcat.net/firewalls</guid>
-    <description>firewalld Firewall. ufw AKA uncomplicated firewall; a firewall config tool running on top of iptables. Common with Ubuntu-based distros (e.g. Linux Mint).</description>
-    <pubDate>Sat, 04 Jan 2025 00:49:49 GMT</pubDate>
-  </item><item>
-    <title>Deploying EC2 with... everything.</title>
-    <link>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</link>
-    <guid>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</guid>
-    <description>Let’s get straight to business. What do we want to do? Deploy an AWS EC2 instance in a fantastically diverse collection of ways. Not including clicking through things in a web UI (that’s cool but too slow and too easy, thus very boring) nor especially pulling an untrustworthy LLM-generated YAML or Bash script from Amazon Q itself (or loose sequence of 3 commands, to be more precise).</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
-  </item><item>
-    <title>Grafana</title>
-    <link>https://milky-quartz.netcatcat.net/grafana</link>
-    <guid>https://milky-quartz.netcatcat.net/grafana</guid>
-    <description>Grafana Grafana creating monitoring dashboards based on data from endpoints provided to it. It’s like a “frontend” for monitoring data scraper tools such as Prometheus, DataDog, CloudWatch and so on.</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
+    <title>robots.txt</title>
+    <link>https://milky-quartz.netcatcat.net/robots.txt</link>
+    <guid>https://milky-quartz.netcatcat.net/robots.txt</guid>
+    <description>robots.txt A semi-informal standard made by Google to tell webscraping robots (provided they are polite; some aren’t) to fuck off. See official Google documentation here.</description>
+    <pubDate>Sat, 11 Jan 2025 17:19:50 GMT</pubDate>
   </item><item>
     <title>Kubernetes theory</title>
     <link>https://milky-quartz.netcatcat.net/kubernetes-theory</link>
     <guid>https://milky-quartz.netcatcat.net/kubernetes-theory</guid>
     <description>Kubernetes For more low-level practical stuff, go to docs on Docker and K8s basics. For what reason? [].</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 22:25:39 GMT</pubDate>
   </item><item>
     <title>Minikube &amp; K8s basics</title>
     <link>https://milky-quartz.netcatcat.net/minikube</link>
     <guid>https://milky-quartz.netcatcat.net/minikube</guid>
     <description>Minikube A lot of starter stuff here follows from starter Go+Docker stuff at Docker basics. Deploying a Go helowoorld on Minikube First off, ensure you have Docker installed and Docker group set up.</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
+    <pubDate>Thu, 09 Jan 2025 18:28:06 GMT</pubDate>
   </item><item>
-    <title>Prometheus</title>
-    <link>https://milky-quartz.netcatcat.net/prometheus</link>
-    <guid>https://milky-quartz.netcatcat.net/prometheus</guid>
-    <description>Prometheus Prometheus is a tool for collecting data for monitoring purposes. Basically it’s one of the “backend options” for monitoring visualization tools such as Grafana.</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
+    <title>OpenGraph</title>
+    <link>https://milky-quartz.netcatcat.net/opengraph</link>
+    <guid>https://milky-quartz.netcatcat.net/opengraph</guid>
+    <description>OpenGraph Protocol ogp.me/.</description>
+    <pubDate>Sat, 04 Jan 2025 01:51:24 GMT</pubDate>
   </item><item>
-    <title>SRE principles</title>
-    <link>https://milky-quartz.netcatcat.net/sre-principles</link>
-    <guid>https://milky-quartz.netcatcat.net/sre-principles</guid>
-    <description>SRE principles Monitoring Concepts from João Pereira’s 52 weeks of SRE (W2) Black-box and white-box A name familiar from testing concepts; we can also categorize monitoring into ...</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
+    <title>Deploying EC2 with... everything.</title>
+    <link>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</link>
+    <guid>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</guid>
+    <description>Let’s get straight to business. What do we want to do? Deploy an AWS EC2 instance in a fantastically diverse collection of ways. Not including clicking through things in a web UI (that’s cool but too slow and too easy, thus very boring) nor especially pulling an untrustworthy LLM-generated YAML or Bash script from Amazon Q itself (or loose sequence of 3 commands, to be more precise).</description>
+    <pubDate>Sat, 04 Jan 2025 00:50:13 GMT</pubDate>
+  </item><item>
+    <title>Firewalls on Linux</title>
+    <link>https://milky-quartz.netcatcat.net/firewalls</link>
+    <guid>https://milky-quartz.netcatcat.net/firewalls</guid>
+    <description>firewalld Firewall. ufw AKA uncomplicated firewall; a firewall config tool running on top of iptables. Common with Ubuntu-based distros (e.g. Linux Mint).</description>
+    <pubDate>Sat, 04 Jan 2025 00:50:13 GMT</pubDate>
+  </item><item>
+    <title>SSH</title>
+    <link>https://milky-quartz.netcatcat.net/ssh</link>
+    <guid>https://milky-quartz.netcatcat.net/ssh</guid>
+    <description>OpenSSH (Secure Shell) OpenSSH is a collection of tools, here’s a brief overview of them all: ssh - “Secure Shell”, the command that allows a secure tunnel for a shell connection to ...</description>
+    <pubDate>Sat, 04 Jan 2025 00:50:13 GMT</pubDate>
   </item><item>
     <title>Vim cheatsheet</title>
     <link>https://milky-quartz.netcatcat.net/vim-cheatsheet</link>
     <guid>https://milky-quartz.netcatcat.net/vim-cheatsheet</guid>
     <description>Vi/Vim/Neovim(/Nano) Cheatsheet Emergency FAQ zone: Q :: “Oh man aw mane, we are in som troble” A :: &lt;ESC&gt;+qa!+&lt;ENTER&gt; Q :: “Aaaa, why cannot I autocomplete file selections ...</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
+    <pubDate>Sat, 04 Jan 2025 00:50:13 GMT</pubDate>
   </item><item>
     <title>cURL cheatsheet</title>
     <link>https://milky-quartz.netcatcat.net/curl-cheatsheet</link>
     <guid>https://milky-quartz.netcatcat.net/curl-cheatsheet</guid>
     <description>cURL cheatsheet Use a custom loopback interface (e.g. 127.1.2.3): curl --interface 127.1.2.3 -v http://127.57.57.57:8057/ Index of helpful links Everything curl.</description>
-    <pubDate>Fri, 27 Dec 2024 22:09:59 GMT</pubDate>
+    <pubDate>Sat, 04 Jan 2025 00:50:13 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -2,7 +2,7 @@
 title: Kubernetes theory
 draft: false
 tags:
-  - K8s
+  - k8s
   - Minikube
   - containers
   - orchestrators
