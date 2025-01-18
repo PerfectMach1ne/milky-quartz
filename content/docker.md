@@ -23,6 +23,7 @@ Builx's build request to BuildKit includes the **Dockerfile**, **build args** an
 
 ### Example Dockerfile
 
+There's a separate note about [[dockerfiles | Dockerfiles]].\
 From [`https://github.com/cloudnativedevops/demo.git`](https://github.com/cloudnativedevops/demo).\
 Anyways, here's a very plain and simple Go HTTP server that runs on `127.0.0.1:8888`:
 
