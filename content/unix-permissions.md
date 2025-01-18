@@ -21,9 +21,15 @@ chmod +x ./run.sh
 ```
 Root only file access:
 ```sh
-chmod 000 ./.creds
+chmod 000 ~/.creds
 ```
 Read-only exclusively for file owner:
 ```sh
 chmod 400 ./special-toy
 ```
+Full permissions for everyone (what are you even doing):[^1]
+```sh
+chmod 777 /my-stupid-root-folder
+```
+
+[^1]: Been there, done that.

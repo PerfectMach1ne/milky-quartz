@@ -6,65 +6,65 @@
       <description>Last 10 notes on Milky Quartz, a note garden 🌱🖥️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Kubernetes theory</title>
+    <link>https://milky-quartz.netcatcat.net/kubernetes-theory</link>
+    <guid>https://milky-quartz.netcatcat.net/kubernetes-theory</guid>
+    <description>Kubernetes For more low-level practical stuff, go to docs on Docker and K8s basics. For what reason? Kubernetes can be referred to as the “operating system of the cloud native world”.</description>
+    <pubDate>Sat, 18 Jan 2025 15:14:21 GMT</pubDate>
+  </item><item>
+    <title>Git</title>
+    <link>https://milky-quartz.netcatcat.net/git</link>
+    <guid>https://milky-quartz.netcatcat.net/git</guid>
+    <description>Git [].</description>
+    <pubDate>Sat, 18 Jan 2025 14:52:03 GMT</pubDate>
+  </item><item>
+    <title>Unix permissions</title>
+    <link>https://milky-quartz.netcatcat.net/unix-permissions</link>
+    <guid>https://milky-quartz.netcatcat.net/unix-permissions</guid>
+    <description>Unix permissions with chmod Useful examples: Make it executable: chmod +x ./run.sh Root only file access: chmod 000 ~/.creds Read-only exclusively for file owner: chmod 400 ./special-toy ...</description>
+    <pubDate>Sat, 18 Jan 2025 14:27:31 GMT</pubDate>
+  </item><item>
     <title>Linux kernel</title>
     <link>https://milky-quartz.netcatcat.net/linux-kernel</link>
     <guid>https://milky-quartz.netcatcat.net/linux-kernel</guid>
     <description>The Linux Kernel docs.kernel.org README Click the following link for Linux Docs official README page. Most of information presented in this subchapter is a selective copy-paste or paraphrasing from the above website.</description>
-    <pubDate>Sat, 18 Jan 2025 14:15:36 GMT</pubDate>
+    <pubDate>Sat, 18 Jan 2025 14:22:59 GMT</pubDate>
   </item><item>
     <title>Bitflips</title>
     <link>https://milky-quartz.netcatcat.net/bitflips</link>
     <guid>https://milky-quartz.netcatcat.net/bitflips</guid>
     <description>Bitflips Bitflip is a kind of memory error that is an unintentional state switch from 0 to 1 or vice versa. Typically it affects random access memory. Diagnosing bitflips In this Btrfs LKML 2025-01 thread, an Arch Linux user reported issues with their filesystem, sharing dmesg logs of Btrfs errors regarding leaf corruption, resulting in their filesystem going read-only: [ +0.000001] BTRFS critical (device nvme0n1p2): corrupt leaf: block=3279774253056 slot=66 extent bytenr=3148007481344 len=8192 invalid extent refs, have 1 expect &gt;= inline 513 [ +0.000005] BTRFS info (device nvme0n1p2): leaf 3279774253056 gen 381142 total ptrs 198 free space 1189 owner 2 ..</description>
-    <pubDate>Sat, 18 Jan 2025 13:57:46 GMT</pubDate>
-  </item><item>
-    <title>Docker basics</title>
-    <link>https://milky-quartz.netcatcat.net/docker</link>
-    <guid>https://milky-quartz.netcatcat.net/docker</guid>
-    <description>Docker Docker Engine It runs the whole thing. Docker Build Build images from Dockerfiles. In terms of command line toys, there’s docker build and docker buildx build which is like build on rails.</description>
-    <pubDate>Tue, 14 Jan 2025 16:12:56 GMT</pubDate>
-  </item><item>
-    <title>Deploying EC2 with... everything.</title>
-    <link>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</link>
-    <guid>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</guid>
-    <description>Let’s get straight to business. What do we want to do? Deploy an AWS EC2 instance in a fantastically diverse collection of ways. Not including clicking through things in a web UI (that’s cool but too slow and too easy, thus very boring) nor especially pulling an untrustworthy LLM-generated YAML or Bash script from Amazon Q itself (or loose sequence of 3 commands, to be more precise).</description>
-    <pubDate>Mon, 13 Jan 2025 22:55:58 GMT</pubDate>
+    <pubDate>Sat, 18 Jan 2025 14:16:34 GMT</pubDate>
   </item><item>
     <title>CSS</title>
     <link>https://milky-quartz.netcatcat.net/css</link>
     <guid>https://milky-quartz.netcatcat.net/css</guid>
     <description>CSS (Cascading Style Sheets) CSS reset - a method of resetting default styling of some HTML tag, used by most browsers. It can be done, for example, like this: html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; }.</description>
-    <pubDate>Mon, 13 Jan 2025 22:55:58 GMT</pubDate>
+    <pubDate>Sat, 18 Jan 2025 14:16:34 GMT</pubDate>
   </item><item>
-    <title>cURL cheatsheet</title>
-    <link>https://milky-quartz.netcatcat.net/curl-cheatsheet</link>
-    <guid>https://milky-quartz.netcatcat.net/curl-cheatsheet</guid>
-    <description>cURL cheatsheet Use a custom loopback interface (e.g. 127.1.2.3): curl --interface 127.1.2.3 -v http://127.57.57.57:8057/ Index of helpful links Everything curl.</description>
-    <pubDate>Mon, 13 Jan 2025 22:55:58 GMT</pubDate>
+    <title>Docker basics</title>
+    <link>https://milky-quartz.netcatcat.net/docker</link>
+    <guid>https://milky-quartz.netcatcat.net/docker</guid>
+    <description>Docker Docker Engine It runs the whole thing. Docker Build Build images from Dockerfiles. In terms of command line toys, there’s docker build and docker buildx build which is like build on rails.</description>
+    <pubDate>Sat, 18 Jan 2025 14:16:34 GMT</pubDate>
   </item><item>
-    <title>Dockerfile structure</title>
-    <link>https://milky-quartz.netcatcat.net/dockerfiles</link>
-    <guid>https://milky-quartz.netcatcat.net/dockerfiles</guid>
-    <description>Dockerfiles For little extras, also read up Docker basics.</description>
-    <pubDate>Mon, 13 Jan 2025 22:55:58 GMT</pubDate>
+    <title>OpenGraph</title>
+    <link>https://milky-quartz.netcatcat.net/opengraph</link>
+    <guid>https://milky-quartz.netcatcat.net/opengraph</guid>
+    <description>OpenGraph Protocol OpenGraph Protocol or OGP is a web standard for other web applications to create embedded content of your link. The simplest way to add OGP embed to your website, is to add this to its &lt;head&gt; tag: &lt;meta property=&quot;og:title&quot; content=&quot;netcatcat.net : subsite&quot;&gt; &lt;meta property=&quot;og:type&quot; content=&quot;website&quot;&gt; &lt;meta property=&quot;og:url&quot; content=&quot;netcatcat.net/subsite&quot;&gt; &lt;meta property=&quot;og:image&quot; content=&quot;netcatcat.net/assets/images/KBITY_TRANSEDEN_TEAL_HEHE_.png&quot;&gt;.</description>
+    <pubDate>Sat, 18 Jan 2025 14:16:34 GMT</pubDate>
   </item><item>
-    <title>Firewalls on Linux</title>
-    <link>https://milky-quartz.netcatcat.net/firewalls</link>
-    <guid>https://milky-quartz.netcatcat.net/firewalls</guid>
-    <description>firewalld Firewall. ufw AKA uncomplicated firewall; a firewall config tool running on top of iptables. Common with Ubuntu-based distros (e.g. Linux Mint).</description>
-    <pubDate>Mon, 13 Jan 2025 22:55:58 GMT</pubDate>
+    <title>PGP&amp;GPG</title>
+    <link>https://milky-quartz.netcatcat.net/pgp</link>
+    <guid>https://milky-quartz.netcatcat.net/pgp</guid>
+    <description>PGP (Pretty Good Privacy) Pretty good tool for encryption &amp; decryption, as well as verifying file integrity. GPG/GnuPG tool Gnu Privacy Guard - the best free tool (afaik) for doing things with PGP.</description>
+    <pubDate>Sat, 18 Jan 2025 14:16:34 GMT</pubDate>
   </item><item>
-    <title>GitHub</title>
-    <link>https://milky-quartz.netcatcat.net/github</link>
-    <guid>https://milky-quartz.netcatcat.net/github</guid>
-    <description>GitHub CLI reference GitHub web Remote repo editing Open a repository in browser, then click on a file and press the &lt;/&gt; key to open the github.dev VS Code browser editor! ...</description>
-    <pubDate>Mon, 13 Jan 2025 22:55:58 GMT</pubDate>
-  </item><item>
-    <title>Grafana</title>
-    <link>https://milky-quartz.netcatcat.net/grafana</link>
-    <guid>https://milky-quartz.netcatcat.net/grafana</guid>
-    <description>Grafana Grafana creating monitoring dashboards based on data from endpoints provided to it. It’s like a “frontend” for monitoring data scraper tools such as Prometheus, DataDog, CloudWatch and so on.</description>
-    <pubDate>Mon, 13 Jan 2025 22:55:58 GMT</pubDate>
+    <title>robots.txt</title>
+    <link>https://milky-quartz.netcatcat.net/robots.txt</link>
+    <guid>https://milky-quartz.netcatcat.net/robots.txt</guid>
+    <description>robots.txt A semi-informal standard made by Google to tell webscraping robots (provided they are polite; some aren’t) to fuck off. See official Google documentation here.</description>
+    <pubDate>Sat, 18 Jan 2025 14:16:34 GMT</pubDate>
   </item>
     </channel>
   </rss>
