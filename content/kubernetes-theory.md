@@ -75,5 +75,21 @@ control plane?
 > - Is your config managed and backed up? Do you use IaC and have a ***backup*** backup of it?
 > - Do you have a ***backup*** backup of your cluster?
 
+> [!bug] Automated resilience testing tools
+>
+> Netflix's Chaos Monkey.
+
+*Supplementary book yapping tl;dr:*
+
+Tools don't do it all for you, especially if they promise to be point-and-click, zero-effort or instant ~~gratification~~ (or Gods-forbid "no-code").\
+Kubernetes is hard.\
+Start off with managed services at first.
+There are **Kubernetes installers** that you can use to **build your own clusters**.
+
+> [!example]- k8s cloud-managed madness index
+>
+> - Google Kuberetes Service (GKE)
+> - Amazon Elastic Container Service for Kubernetes (EKS)
+
 [^1]: 15th January 2025 incident involving LightDM and Xorg crashing into oblivion after I flipped the MUX switch; yes, it was a Brazilian BIOS error, also known as "Dumb Animal Operating the System" error. I blame Nvidia drivers, not myself, though.
 [^2]: Stares menacingly at ASUS Linux & AUR maintainers.

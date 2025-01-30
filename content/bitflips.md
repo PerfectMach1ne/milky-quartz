@@ -19,7 +19,7 @@ Bitflip is a kind of memory error that is an unintentional state switch from 0 t
 
 ## Diagnosing bitflips
 
-In this [Btrfs LKML 2025-01 thread](https://lore.kernel.org/linux-btrfs/adf490d379b1970b8cbac849f98b92247d7f1cbb.camel@gmail.com/T/#t), an Arch Linux user reported issues with their filesystem, sharing `dmesg` logs of Btrfs errors regarding leaf corruption, resulting in their filesystem going **read-only**:
+In this Btrfs [[linux-kernel | Linux Kernel]] Mailing List [2025-01 thread](https://lore.kernel.org/linux-btrfs/adf490d379b1970b8cbac849f98b92247d7f1cbb.camel@gmail.com/T/#t), an Arch Linux user reported issues with their filesystem, sharing `dmesg` logs of Btrfs errors regarding leaf corruption, resulting in their filesystem going **read-only**:
 
 ```sh
 [  +0.000001] BTRFS critical (device nvme0n1p2): corrupt leaf: block=3279774253056 slot=66 extent bytenr=3148007481344 len=8192 invalid extent refs, have 1 expect >= inline 513
