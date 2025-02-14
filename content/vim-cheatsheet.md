@@ -17,6 +17,9 @@ tags:
 **Q** :: *"Aaaa, why cannot I autocomplete file selections in my nooby Neovim setup!?"*\
 **A** :: `<CTRL>+<y>`
 
+**Q** :: *"What!! WHate !! WHAET!!! How do I . SUBSTITUTE !!! GLOBALLY !!!1111"*\
+**A** :: `<ESC>+:%s/ReplaceMe/WithThis/+<ENTER>`
+
 ## General cheatsheet (Vi family)
 
 **Global substitution** :: `<ESC>+:%s/findand/replacewith`[^1]\
