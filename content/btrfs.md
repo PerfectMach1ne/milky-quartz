@@ -7,5 +7,5 @@ tags:
   - linux
 ---
 
-# Btrfs internals
+# Btrfs
 
