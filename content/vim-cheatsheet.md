@@ -34,6 +34,8 @@ tags:
 
 `<CTRL>+<v>` -> `<j>` or `<k>` as much as needed -> `<I>` / `<SHIFT>+<i>` -> type your arbitrary character collection! -> `<ESC>`
 
+**Count matches and display result** :: `:%s/pattern//gn+<ENTER>`
+
 > [!example] Example
 > 
 > ### Before edit:
