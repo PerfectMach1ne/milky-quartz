@@ -68,4 +68,3 @@ find . -maxdepth 1 -name "*bash_history*" -exec rm {} +
 >         points.
 > ```
 
-

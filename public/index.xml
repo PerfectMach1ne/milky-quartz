@@ -10,61 +10,61 @@
     <link>https://milky-quartz.netcatcat.net/find</link>
     <guid>https://milky-quartz.netcatcat.net/find</guid>
     <description>find find is a UNIX command for file search. It has many extra toy features that let you execute various other commands on files returned on search. Assorted usage examples Find all files in current working directory such that: All filepaths matching the “*python3.12” expression are pruned (ignored) The righthand expression of “-o” AKA “-or” is evaluated, that is: Only search for files with .py extension.</description>
-    <pubDate>Sat, 13 Sep 2025 20:09:41 GMT</pubDate>
-  </item><item>
-    <title>NeoVim</title>
-    <link>https://milky-quartz.netcatcat.net/nvim</link>
-    <guid>https://milky-quartz.netcatcat.net/nvim</guid>
-    <description>NeoVim Learning NeoVim from scratch, because one error I don’t get which interfered with my very trivial attempt to navigate the text file pissed me off not to the extreme, but just ...</description>
-    <pubDate>Sat, 13 Sep 2025 19:43:56 GMT</pubDate>
-  </item><item>
-    <title>Btrfs</title>
-    <link>https://milky-quartz.netcatcat.net/btrfs</link>
-    <guid>https://milky-quartz.netcatcat.net/btrfs</guid>
-    <description>Btrfs.</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
+    <pubDate>Sat, 13 Sep 2025 22:35:39 GMT</pubDate>
   </item><item>
     <title>Git</title>
     <link>https://milky-quartz.netcatcat.net/git</link>
     <guid>https://milky-quartz.netcatcat.net/git</guid>
     <description>Git Command cheatsheet Removing untracked files from the working tree git rm -rf --cached . (purge from tracking index if already staged) git clean -dfX Dry run: git clean -dnX .</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
+  </item><item>
+    <title>NeoVim</title>
+    <link>https://milky-quartz.netcatcat.net/nvim</link>
+    <guid>https://milky-quartz.netcatcat.net/nvim</guid>
+    <description>NeoVim Learning NeoVim from scratch, because one error I don’t get which interfered with my very trivial attempt to navigate the text file pissed me off not to the extreme, but just ...</description>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
   </item><item>
     <title>Rust</title>
     <link>https://milky-quartz.netcatcat.net/rust</link>
     <guid>https://milky-quartz.netcatcat.net/rust</guid>
     <description>Rust.</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
   </item><item>
     <title>Vim cheatsheet</title>
     <link>https://milky-quartz.netcatcat.net/vim-cheatsheet</link>
     <guid>https://milky-quartz.netcatcat.net/vim-cheatsheet</guid>
     <description>Vi/Vim/Neovim(/Nano) Cheatsheet Emergency FAQ zone: Q :: “Oh man aw mane, we are in som troble” A :: &lt;ESC&gt;+qa!+&lt;ENTER&gt; Q :: “Aaaa, why cannot I autocomplete file selections ...</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
   </item><item>
-    <title>Bitflips</title>
-    <link>https://milky-quartz.netcatcat.net/bitflips</link>
-    <guid>https://milky-quartz.netcatcat.net/bitflips</guid>
-    <description>Bitflips Bitflip is a kind of memory error that is an unintentional state switch from 0 to 1 or vice versa. Typically it affects random access memory. Diagnosing bitflips In this Btrfs Linux Kernel Mailing List 2025-01 thread, an Arch Linux user reported issues with their filesystem, sharing dmesg logs of Btrfs errors regarding leaf corruption, resulting in their filesystem going read-only: [ +0.000001] BTRFS critical (device nvme0n1p2): corrupt leaf: block=3279774253056 slot=66 extent bytenr=3148007481344 len=8192 invalid extent refs, have 1 expect &gt;= inline 513 [ +0.000005] BTRFS info (device nvme0n1p2): leaf 3279774253056 gen 381142 total ptrs 198 free space 1189 owner 2 ..</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
-  </item><item>
-    <title>Btrfs internals</title>
-    <link>https://milky-quartz.netcatcat.net/btrfs-internals</link>
-    <guid>https://milky-quartz.netcatcat.net/btrfs-internals</guid>
-    <description>Btrfs internals.</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
-  </item><item>
-    <title>Docker basics</title>
-    <link>https://milky-quartz.netcatcat.net/docker</link>
-    <guid>https://milky-quartz.netcatcat.net/docker</guid>
-    <description>Docker Docker Engine It runs the whole thing. Docker Build Build images from Dockerfiles. In terms of command line toys, there’s docker build and docker buildx build which is like build on rails.</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
+    <title>Btrfs</title>
+    <link>https://milky-quartz.netcatcat.net/btrfs</link>
+    <guid>https://milky-quartz.netcatcat.net/btrfs</guid>
+    <description>Btrfs.</description>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
   </item><item>
     <title>Kubernetes theory</title>
     <link>https://milky-quartz.netcatcat.net/kubernetes-theory</link>
     <guid>https://milky-quartz.netcatcat.net/kubernetes-theory</guid>
     <description>Kubernetes For more low-level practical stuff, go to docs on Docker and K8s basics. For what reason? Kubernetes can be referred to as the “operating system of the cloud native world”.</description>
-    <pubDate>Tue, 10 Jun 2025 10:57:24 GMT</pubDate>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
+  </item><item>
+    <title>PGP&amp;GPG</title>
+    <link>https://milky-quartz.netcatcat.net/pgp</link>
+    <guid>https://milky-quartz.netcatcat.net/pgp</guid>
+    <description>PGP (Pretty Good Privacy) Pretty good tool for encryption &amp; decryption, as well as verifying file integrity. GPG/GnuPG tool Gnu Privacy Guard - the best free tool (afaik) for doing things with PGP.</description>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
+  </item><item>
+    <title>My Raspberry Pi Zero W</title>
+    <link>https://milky-quartz.netcatcat.net/raspberrypi</link>
+    <guid>https://milky-quartz.netcatcat.net/raspberrypi</guid>
+    <description>Raspberry Pi Zero W My little toy 2025-01-30: I have assembled it; the heatsink is attached and the microcomputer is inserted into the cover. I put the 16 GB microSD card into the adapter in order to install the OS.</description>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
+  </item><item>
+    <title>Bitflips</title>
+    <link>https://milky-quartz.netcatcat.net/bitflips</link>
+    <guid>https://milky-quartz.netcatcat.net/bitflips</guid>
+    <description>Bitflips Bitflip is a kind of memory error that is an unintentional state switch from 0 to 1 or vice versa. Typically it affects random access memory. Diagnosing bitflips In this Btrfs Linux Kernel Mailing List 2025-01 thread, an Arch Linux user reported issues with their filesystem, sharing dmesg logs of Btrfs errors regarding leaf corruption, resulting in their filesystem going read-only: [ +0.000001] BTRFS critical (device nvme0n1p2): corrupt leaf: block=3279774253056 slot=66 extent bytenr=3148007481344 len=8192 invalid extent refs, have 1 expect &gt;= inline 513 [ +0.000005] BTRFS info (device nvme0n1p2): leaf 3279774253056 gen 381142 total ptrs 198 free space 1189 owner 2 ..</description>
+    <pubDate>Sat, 13 Sep 2025 20:26:59 GMT</pubDate>
   </item>
     </channel>
   </rss>
