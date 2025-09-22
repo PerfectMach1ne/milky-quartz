@@ -16,3 +16,5 @@ tags:
 ```sh
 ls -d */
 ```
+
+`*/` is a pattern that matches __all the subdirectories in the current directory.__
