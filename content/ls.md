@@ -8,7 +8,7 @@ tags:
 
 # ls
 
-**** is a UNIX command for listing files in a directory.
+ls is a UNIX command for listing files in a directory.
 
 ### Assorted usage examples
 

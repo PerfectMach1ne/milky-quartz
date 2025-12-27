@@ -58,3 +58,10 @@ tags:
 
 
 [^1]: Append `/g` if global substitution doesn't work.
+
+### Awesome column natural number autofill
+
+https://stackoverflow.com/questions/18219857/vim-column-of-increasing-numbers
+
+`<CTRL>+v` -> `<j>` or `<k>` as much as needed -> `<I>` / `<SHIFT>+<i>` -> type your arbitrary character collection! -> `<ESC>` -> `<g>+<v>` (reselect last visual selection) -> `<g>` + `<CTRL>+<a>`
+
