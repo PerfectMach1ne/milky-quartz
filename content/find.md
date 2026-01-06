@@ -33,10 +33,10 @@ find . -name "*.java" -print0 -exec echo {} \; -exec grep url {} \;
 
 ![Example usage of `find -exec` with `echo` and `grep`](./img/findexecgrep.png)
 
-#### Count all lines of a particular file type.
+#### Count all lines of a particular file type
 
 ```sh
-find . -name "*.java" -exec wc -l {} \+
+find . -name "*.java" -exec wc -l {} +
 ```
 
 
