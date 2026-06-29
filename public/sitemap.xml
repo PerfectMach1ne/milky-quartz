@@ -1,91 +1,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://milky-quartz.netcatcat.net/aws-ec2-tf-cf</loc>
-    <lastmod>2025-09-22T14:35:51.361Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.943Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/bitflips</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.947Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/btrfs-internals</loc>
-    <lastmod>2025-09-22T14:35:51.363Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.947Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/btrfs</loc>
-    <lastmod>2025-09-22T14:35:51.363Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.948Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/css</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.946Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/curl-cheatsheet</loc>
-    <lastmod>2025-09-22T14:35:51.360Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.939Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/docker</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.946Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/dockerfiles</loc>
-    <lastmod>2025-09-22T14:35:51.360Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.940Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/find</loc>
-    <lastmod>2025-09-22T14:35:51.364Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.951Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/firewalls</loc>
-    <lastmod>2025-09-22T14:35:51.361Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.944Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/git</loc>
-    <lastmod>2025-09-22T14:35:51.363Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.949Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/github</loc>
-    <lastmod>2025-09-22T14:35:51.361Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.941Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/grafana</loc>
-    <lastmod>2025-09-22T14:35:51.361Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.942Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/grep</loc>
+    <lastmod>2026-06-29T16:38:15.951Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/</loc>
-    <lastmod>2025-09-22T14:35:51.358Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.933Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/kubernetes-theory</loc>
-    <lastmod>2025-09-22T14:35:51.363Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.948Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/linux-kernel</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.947Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/ls</loc>
-    <lastmod>2025-11-20T19:18:27.348Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.950Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/minikube</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.945Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/nvim</loc>
-    <lastmod>2025-09-22T14:35:51.364Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.950Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/opengraph</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.945Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/pgp</loc>
-    <lastmod>2025-09-22T14:35:51.363Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.948Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/powerstates</loc>
-    <lastmod>2025-09-22T14:35:51.361Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.942Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/prometheus</loc>
-    <lastmod>2025-09-22T14:35:51.361Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.943Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/raspberrypi</loc>
-    <lastmod>2025-09-22T14:35:51.363Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.948Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/robots.txt</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.945Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/rust</loc>
-    <lastmod>2025-09-22T14:35:51.363Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.949Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/sre-principles</loc>
-    <lastmod>2025-09-22T14:35:51.361Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.943Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/ssh</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.944Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/unix-permissions</loc>
-    <lastmod>2025-09-22T14:35:51.362Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.946Z</lastmod>
   </url><url>
     <loc>https://milky-quartz.netcatcat.net/vim-cheatsheet</loc>
-    <lastmod>2025-09-22T14:35:51.364Z</lastmod>
+    <lastmod>2026-06-29T16:38:15.950Z</lastmod>
+  </url><url>
+    <loc>https://milky-quartz.netcatcat.net/bashpipes</loc>
+    <lastmod>2026-06-29T16:48:19.464Z</lastmod>
   </url></urlset>
