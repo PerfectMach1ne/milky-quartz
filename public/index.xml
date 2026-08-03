@@ -6,65 +6,65 @@
       <description>Last 10 notes on Milky Quartz, a note garden 🌱🖥️</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>NeoVim</title>
+    <link>https://milky-quartz.netcatcat.net/nvim</link>
+    <guid>https://milky-quartz.netcatcat.net/nvim</guid>
+    <description>NeoVim Learning NeoVim from scratch, because one error I don’t get which interfered with my very trivial attempt to navigate the text file pissed me off not to the extreme, but just ...</description>
+    <pubDate>Mon, 03 Aug 2026 09:25:25 GMT</pubDate>
+  </item><item>
+    <title>Gradle</title>
+    <link>https://milky-quartz.netcatcat.net/gradle</link>
+    <guid>https://milky-quartz.netcatcat.net/gradle</guid>
+    <description>Gradle Gradla built system cheatsheet-ish notes. Resources: On Gradle Wrapper gradle init .</description>
+    <pubDate>Mon, 03 Aug 2026 08:20:16 GMT</pubDate>
+  </item><item>
     <title>Bash pipes</title>
     <link>https://milky-quartz.netcatcat.net/bashpipes</link>
     <guid>https://milky-quartz.netcatcat.net/bashpipes</guid>
     <description>Bash pipes Or whatever they’re called. &gt;, &amp;&gt; and &gt;&amp; operators &gt; – file_descriptor &gt; file_name &amp;&gt; – &amp;&gt; file_name &gt;&amp; – file_descriptor &gt;&amp; file_descriptor If the file descriptor is omitted, the default is 0 for stdin, 1 for stdout and 2 for stderr.</description>
-    <pubDate>Mon, 29 Jun 2026 16:48:19 GMT</pubDate>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item><item>
     <title>find</title>
     <link>https://milky-quartz.netcatcat.net/find</link>
     <guid>https://milky-quartz.netcatcat.net/find</guid>
     <description>find find is a UNIX command for file search. It has many extra toy features that let you execute various other commands on files returned on search. Assorted usage examples Find all files in current working directory such that: All filepaths matching the “*python3.12” expression are pruned (ignored) The righthand expression of “-o” AKA “-or” is evaluated, that is: Only search for files with .py extension.</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item><item>
     <title>grep</title>
     <link>https://milky-quartz.netcatcat.net/grep</link>
     <guid>https://milky-quartz.netcatcat.net/grep</guid>
     <description>grep grep is a UNIX command for text &amp; pattern matching within multiple files. Linux devs love it and so do I! Assorted usage examples Find all files of a particular extension, but with grep instead of find, like the fucking little terminal snowflake that I am.</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item><item>
     <title>ls</title>
     <link>https://milky-quartz.netcatcat.net/ls</link>
     <guid>https://milky-quartz.netcatcat.net/ls</guid>
     <description>ls ls is a UNIX command for listing files in a directory. Assorted usage examples List directories only ls -d */ */ is a pattern that matches all the subdirectories in the current directory.</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
-  </item><item>
-    <title>NeoVim</title>
-    <link>https://milky-quartz.netcatcat.net/nvim</link>
-    <guid>https://milky-quartz.netcatcat.net/nvim</guid>
-    <description>NeoVim Learning NeoVim from scratch, because one error I don’t get which interfered with my very trivial attempt to navigate the text file pissed me off not to the extreme, but just ...</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item><item>
     <title>Vim cheatsheet</title>
     <link>https://milky-quartz.netcatcat.net/vim-cheatsheet</link>
     <guid>https://milky-quartz.netcatcat.net/vim-cheatsheet</guid>
     <description>Vi/Vim/Neovim(/Nano) Cheatsheet Emergency FAQ zone: Q :: “Oh man aw mane, we are in som troble” A :: &lt;ESC&gt;+qa!+&lt;ENTER&gt; Q :: “Aaaa, why cannot I autocomplete file selections ...</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item><item>
-    <title>Git</title>
-    <link>https://milky-quartz.netcatcat.net/git</link>
-    <guid>https://milky-quartz.netcatcat.net/git</guid>
-    <description>Git Command cheatsheet Removing untracked files from the working tree git rm -rf --cached . (purge from tracking index if already staged) git clean -dfX Dry run: git clean -dnX .</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
-  </item><item>
-    <title>Rust</title>
-    <link>https://milky-quartz.netcatcat.net/rust</link>
-    <guid>https://milky-quartz.netcatcat.net/rust</guid>
-    <description>Rust.</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
+    <title>Btrfs internals</title>
+    <link>https://milky-quartz.netcatcat.net/btrfs-internals</link>
+    <guid>https://milky-quartz.netcatcat.net/btrfs-internals</guid>
+    <description>Btrfs internals.</description>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item><item>
     <title>Btrfs</title>
     <link>https://milky-quartz.netcatcat.net/btrfs</link>
     <guid>https://milky-quartz.netcatcat.net/btrfs</guid>
     <description>Btrfs.</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item><item>
-    <title>Kubernetes theory</title>
-    <link>https://milky-quartz.netcatcat.net/kubernetes-theory</link>
-    <guid>https://milky-quartz.netcatcat.net/kubernetes-theory</guid>
-    <description>Kubernetes For more low-level practical stuff, go to docs on Docker and K8s basics. For what reason? Kubernetes can be referred to as the “operating system of the cloud native world”.</description>
-    <pubDate>Mon, 29 Jun 2026 16:38:15 GMT</pubDate>
+    <title>Git</title>
+    <link>https://milky-quartz.netcatcat.net/git</link>
+    <guid>https://milky-quartz.netcatcat.net/git</guid>
+    <description>Git Command cheatsheet Removing untracked files from the working tree git rm -rf --cached . (purge from tracking index if already staged) git clean -dfX Dry run: git clean -dnX .</description>
+    <pubDate>Mon, 29 Jun 2026 16:48:29 GMT</pubDate>
   </item>
     </channel>
   </rss>
